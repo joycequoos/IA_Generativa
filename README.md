@@ -61,6 +61,7 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
 <img width="430" height="310" alt="image" src="https://github.com/user-attachments/assets/8078feeb-6d57-4825-8c3c-9b0e16c0b974" />
 
+<img width="456" height="445" alt="image" src="https://github.com/user-attachments/assets/f7797a3a-3d25-450d-88e8-4b408bfcd003" />
 
 
 
