@@ -91,7 +91,7 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
   De Audio para Texto;
 
-  
+  De Texto para Video;
 
 
   
