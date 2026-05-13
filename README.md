@@ -63,6 +63,41 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
 <img width="456" height="445" alt="image" src="https://github.com/user-attachments/assets/f7797a3a-3d25-450d-88e8-4b408bfcd003" />
 
+### Fundamentos da IA Generativa
+
+- Quais sao os tipos de IA Generativa?
+
+  nao é somente chat gpt, nao é somente texto para texto, tem varios outros modelos e é bom que voce entenda cada um deles porque a partir do momento que voce entende voce sabe onde vc pode utiliza-los
+
+  Vamos dar uma olhada nos modelos de IA Generativa
+
+  chat GPT é uma IA Generativa de texto para texto, ele gera texto tentando advinhar de agora para frente, um estilo de texto para texto.
+
+  onde voce comeca passando um texto e ele vai criando dali em diante
+
+  outro modelo é de texto para imagem, habilidade de passar um texto que pode ser muito bem definido atraves de um prompt
+
+  criar uma cena de um homem andando em nova yourk as 18 horas com uma mala na mao, se colocar isso em uma ferramenta por exemplo a doly ele vai pegar esse texto e vai gerar uma imagem de um homem andando as 18 horas, ele vai comecar a criar da forma que ele acha melhor.
+
+   se eu comeco a especificar, criar uma cena de um homem magro mais em forma, alto, com barba, sem cabelo, quanto mais informacao eu passo e ai comeca a colocar com alguns passaros passando entre os predios, se colocar no Central Park, a nao eu quero em uma rua em Nova York e assim por diante, esse aqui entao é o texto para imagem.
+
+  Imagem para Imagem:
+
+  <img width="361" height="331" alt="image" src="https://github.com/user-attachments/assets/abd249c2-2c7a-4a37-a504-5813ce8d9770" />
+
+  De Fala para Texto;
+
+  De Texto para Audio;
+
+  De Audio para Texto;
+
+  
+
+
+  
+
+  
+
 
 
 
