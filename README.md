@@ -93,6 +93,8 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
   De Texto para Video;
 
+  <img width="363" height="347" alt="image" src="https://github.com/user-attachments/assets/5a9dad74-ce87-4478-87ac-f9265bb7c0d0" />
+
 
   
 
