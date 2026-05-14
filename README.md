@@ -95,6 +95,21 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
   <img width="363" height="347" alt="image" src="https://github.com/user-attachments/assets/5a9dad74-ce87-4478-87ac-f9265bb7c0d0" />
 
+- Megaempresas tem Modelos especificos para os produtos delas de Inteligencia Artificial, o GPT por melhor que seja o modelo, dentro dessas empresas tem modelos que colocam o chat GPT no chinelo, e fazem com que o chat GPT seja um menino de quinta serie comparado ao Albert Einsten, basicamente isso.
+
+- Entao nao existe um Modelo Perfeito, um modelo é ráopido mas nao tem capacidade, ou ele é lento mas responde muito bem e é bem especifico para uma materia, entendido isso.
+
+### Pontuando Modelos
+
+<img width="391" height="273" alt="image" src="https://github.com/user-attachments/assets/b702dbbd-a0a0-4492-9793-83822cc6d8df" />
+
+<img width="387" height="220" alt="image" src="https://github.com/user-attachments/assets/ad62a6ec-4949-47ee-aa2a-33d07304b25e" />
+
+<img width="368" height="197" alt="image" src="https://github.com/user-attachments/assets/7d96d722-fa3e-4eed-a5e6-8d0906102f14" />
+
+
+
+
 
   
 
