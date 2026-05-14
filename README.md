@@ -120,8 +120,7 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 <img width="325" height="215" alt="image" src="https://github.com/user-attachments/assets/5f1ad19f-fa1c-4b21-8e1a-209c866ec574" />
 </div>
 
-
-  
+- Existem diversos modelos com as suas especificidades, seus custos, seus modelos
 
   
 
