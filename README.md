@@ -132,6 +132,13 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
 Se a IA nao tem dados ela acaba alusinando
 
+<img width="468" height="490" alt="image" src="https://github.com/user-attachments/assets/4b7abd7e-e99a-4a65-a01a-f726ea9c0962" />
+
+  Datasets quebrados podem causar muitos problemas de treinamentos, a inteligencia artificial pode ser bem ruim especialmente se o dataset nao for muito bom.
+
+  Tem que ter muito cuidado com os datasets que vao treinar uma inteligencia artificial, pois os dados inconsistentes tornam a IA ruim.
+
+  
 
   
 
