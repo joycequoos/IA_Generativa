@@ -140,6 +140,8 @@ Se a IA nao tem dados ela acaba alusinando
 
   Dependendo da Dataset ele vai te dar respostas mais precisas ou nao
 
+  Nao adianta perguntar como se faz um bolo em um modelo treinado para dar respostas de geometria ou geografia, ou geologia
+
   
 
 
