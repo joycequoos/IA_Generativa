@@ -122,6 +122,17 @@ Como ela sabe o que esta certo e o que esta errado? Existe um periodo de treino,
 
 - Existem diversos modelos com as suas especificidades, seus custos, seus modelos
 
+### Sobre a criacao de modelos
+
+<img width="445" height="120" alt="image" src="https://github.com/user-attachments/assets/e2688f81-9562-4cb1-a266-1fabae050b62" />
+
+### O Papel dos dados no treinamento da IA
+
+<img width="468" height="554" alt="image" src="https://github.com/user-attachments/assets/21c32cf1-9e34-4e21-b5f8-6efd86892fcd" />
+
+Se a IA nao tem dados ela acaba alusinando
+
+
   
 
 
