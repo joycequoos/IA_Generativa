@@ -138,7 +138,7 @@ Se a IA nao tem dados ela acaba alusinando
 
   Tem que ter muito cuidado com os datasets que vao treinar uma inteligencia artificial, pois os dados inconsistentes tornam a IA ruim.
 
-  
+  Dependendo da Dataset ele vai te dar respostas mais precisas ou nao
 
   
 
