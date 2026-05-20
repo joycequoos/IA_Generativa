@@ -142,6 +142,14 @@ Se a IA nao tem dados ela acaba alusinando
 
   Nao adianta perguntar como se faz um bolo em um modelo treinado para dar respostas de geometria ou geografia, ou geologia
 
+  É muito dificil treinar um modelo que saiba tudo de tudo, porque saber tudo de todas as áreas acaba sendo muito dificil
+
+  Com mais dados, mais lento ele fica consequentemente entao temos que ter um poder computacional muito maior
+
+  A parte de dados é a que mais importa sobre inteligencia artificial generativa
+
+  Existem limitacoes dentro da IA de acordo com os dados que voce passa
+
   
 
 
