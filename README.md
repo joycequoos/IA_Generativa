@@ -214,7 +214,15 @@ Se a IA nao tem dados ela acaba alusinando
 
    Tutor com Paciencia infinita
 
+   Como fazer boas perguntas para a IA, cada vez mais claro, objetivos, pode ser bem generalista, prompts sao comandos para que ele saia cada vez mais inteligentes.
+
+   <img width="312" height="318" alt="image" src="https://github.com/user-attachments/assets/1cf7196e-4c79-4e32-9209-9417c65d2a0f" />
+
+   <img width="325" height="142" alt="image" src="https://github.com/user-attachments/assets/58ded562-f18f-4600-94d5-e7877463ad5f" />
+
    
+
+
 
    
    
