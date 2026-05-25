@@ -150,7 +150,88 @@ Se a IA nao tem dados ela acaba alusinando
 
   Existem limitacoes dentro da IA de acordo com os dados que voce passa
 
+  ### Ética e limitacoes da IA generativa
   
+   como ja podemos perceber que ja existem limitacoes dentro da IA generativa
+
+   <img width="439" height="355" alt="image" src="https://github.com/user-attachments/assets/a2489b91-c87c-43c9-9287-7aa1984ed808" />
+
+   <img width="422" height="70" alt="image" src="https://github.com/user-attachments/assets/21823b68-e420-44de-a668-39c6caed41f5" />
+
+   Os dados que ela utiliza vem da sociedade entao ela pode acabar produzindo muitos vieses, muita discriminacao.
+
+   Se vc fazer uma IA somente com imagens ocidentais e levar isso para o Oriente ele comeca a gerar apenas imagens ocidentais
+
+   Questoes de Privacidade e direitos autorais.
+
+   quem da o direito de pegar os dados? nao existe regulamentacao? o IA rouba dados.
+
+   Dados de livros? Dados de Filmes? Pegam os dados da Internet e criam os seus datasets
+
+   <img width="441" height="120" alt="image" src="https://github.com/user-attachments/assets/cbb588bf-9fbe-4dfa-b25a-dd4151d808fa" />
+
+   qual a porcentagem do meu trabalho é repetitiva, as procedures? as cargas?
+
+   marketing e conteudo, algo vai ser mais utilizado ou menos utilizado
+
+   <img width="420" height="226" alt="image" src="https://github.com/user-attachments/assets/28a0da08-440a-464f-8eb2-7c78f45e762e" />
+
+   Design
+
+   RH
+
+   <img width="299" height="202" alt="image" src="https://github.com/user-attachments/assets/8406c2b8-0c91-46b8-8768-f3f74f7b65ae" />
+
+   Atendimento ao cliente
+
+   <img width="344" height="283" alt="image" src="https://github.com/user-attachments/assets/0b37d5eb-6504-4979-a240-42a5f68bb022" />
+
+   Educacao
+
+   <img width="329" height="244" alt="image" src="https://github.com/user-attachments/assets/7e8b3de4-0218-4a85-b13f-6d262682dd8e" />
+
+   ### Produtividade no seu dia a dis (organizacao, planejamento, escrita)
+
+   Notion IA
+
+   <img width="501" height="573" alt="image" src="https://github.com/user-attachments/assets/8e2ff936-fe6b-46a5-8fd0-162f44e2e3bc" />
+
+   Lista de exercicios para todos os dias
+
+   Tomada de decisoes
+
+   IA na educacao
+
+   tem a capacidade de se adaptar ao nivel, ao estilo e ao ritmo de cada aluno
+
+   alunos que aprendem ouvindo, ouvindo e escutando ao ritmo
+
+   Topico e explicar de forma simples
+
+   Exemplos personalizados
+
+   Apoio ao instrutor, corrigir um exame, criar um plano de aula.
+
+   Tutor com Paciencia infinita
+
+   
+
+   
+   
+
+   
+
+   
+
+
+
+
+
+
+   
+
+
+   
 
 
 
